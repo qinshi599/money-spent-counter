@@ -1,0 +1,53 @@
+body {
+    background-color: #cdb4db;
+    font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color:whitesmoke;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#calculate{
+   width:95px;
+   background:#ffafcc;
+   margin:5px 5px;
+   border-radius: 5px;
+   
+}
+
+#calculatediv{
+     display:flex;
+     justify-content: center;
+     margin-bottom: 3px;
+    
+}
+#cost-btn {
+    background: #ffc8dd;
+
+}
+
+#save-btn {
+    background: #bde0fe;
+}
+
